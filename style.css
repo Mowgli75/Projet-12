@@ -1,7 +1,8 @@
 body {
   background-color: #fff;
   font-family: "Raleway", sans-serif;
-  margin: auto;
+  margin: 0;
+  padding: 0;
 }
 a {
   font-family: "Raleway", sans-serif;
